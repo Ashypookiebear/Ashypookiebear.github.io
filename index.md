@@ -27,7 +27,7 @@
   <a href="https://ashypookiebear.github.io/FN-Base.png" target="_blank" rel="noopener">
     <img src="./FN-Base.png" alt="FN Base" width="320" />
   </a>
-    <a href="https://ashypookiebear.github.io/FN-Base.png" target="_blank" rel="noopener">
+    <a href="https://ashypookiebear.github.io/FN-Base2.png" target="_blank" rel="noopener">
     <img src="./FN-Base2.png" alt="FN Base" width="320" />
   </a>
   <a href="https://ashypookiebear.github.io/FN-Compass.png" target="_blank" rel="noopener">
