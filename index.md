@@ -36,6 +36,24 @@
   <a href="https://ashypookiebear.github.io/FN-Button.png" target="_blank" rel="noopener">
     <img src="./FN-Button.png" alt="FN Button" width="320" />
   </a>
+  <a href="https://ashypookiebear.github.io/FN-ButtonA.png" target="_blank" rel="noopener">
+    <img src="./FN-ButtonA.png" alt="FN Button A" width="320" />
+  </a>
+  <a href="https://ashypookiebear.github.io/FN-ButtonLS.png" target="_blank" rel="noopener">
+    <img src="./FN-ButtonLS.png" alt="FN Button LS" width="320" />
+  </a>
+  <a href="https://ashypookiebear.github.io/FN-ButtonRB.png" target="_blank" rel="noopener">
+    <img src="./FN-ButtonRB.png" alt="FN Button RB" width="320" />
+  </a>
+  <a href="https://ashypookiebear.github.io/FN-ButtonRS.png" target="_blank" rel="noopener">
+    <img src="./FN-ButtonRS.png" alt="FN Button RS" width="320" />
+  </a>
+  <a href="https://ashypookiebear.github.io/FN-ButtonX.png" target="_blank" rel="noopener">
+    <img src="./FN-ButtonX.png" alt="FN Button X" width="320" />
+  </a>
+  <a href="https://ashypookiebear.github.io/FN-ButtonY.png" target="_blank" rel="noopener">
+    <img src="./FN-ButtonY.png" alt="FN Button Y" width="320" />
+  </a>
   <a href="https://ashypookiebear.github.io/FN-Center.png" target="_blank" rel="noopener">
     <img src="./FN-Center.png" alt="FN Center" width="320" />
   </a>
